@@ -436,6 +436,12 @@ nav > a {
   width: 313px;
   height: 240px;
   background-color: #ffffff;
+  border-radius: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 45px;
 }
 .zurag2 > div {
   width: 313px;
@@ -447,4 +453,22 @@ nav > a {
   display: flex;
   gap: 20px;
   overflow: scroll;
+}
+#back42 {
+  background-image: url(./54711505d840cac99050329da0237a9a79b9d07d.jpg);
+  width: 480px;
+  background-position: center;
+  background-size: cover;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 145px;
+}
+#back43 {
+  background-image: url(./7be9e8c4cd1a574c53bacf2396a17f1007bfc091.jpg);
+  width: 480px;
+  background-position: center;
+  background-size: cover;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 145px;
 }
